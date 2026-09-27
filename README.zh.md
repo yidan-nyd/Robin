@@ -1,3 +1,5 @@
+[中文](README.zh.md) | [English](README.md)
+
 # ROBIN
 
 ## 面向家庭种植场景的 AI Native 成长伙伴
@@ -6,7 +8,7 @@ ROBIN 将计算机视觉、对话智能与移动机器人连接成一个可解�
 
 > **核心闭环：感知 → 理解 → 建议 → 确认 → 行动 → 验证**
 
-[English](README.md) · [个人网站展示文档](docs/portfolio-case-study.zh.md) · [完整技术实现与复现指南](docs/technical/implementation-guide.zh.md)
+[个人网站展示文档](docs/portfolio-case-study.zh.md) · [完整技术实现与复现指南](docs/technical/implementation-guide.zh.md)
 
 > **主视觉待补充**：将机器人置于真实家庭种植或小型农场场景中，并同时露出机器人、植物和移动端三个触点。建议文件位置：`assets/hero/robin-hero.webp`。
 

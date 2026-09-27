@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh.md)
+
 # ROBIN
 
 ## An AI-native growing companion for small households
@@ -6,7 +8,7 @@ ROBIN connects computer vision, conversational intelligence, and mobile robotics
 
 > **Core loop: Perceive → Interpret → Recommend → Confirm → Act → Verify**
 
-[中文](README.zh.md) · [Chinese portfolio case-study copy](docs/portfolio-case-study.zh.md) · [Full technical guide](docs/technical/implementation-guide.md)
+[Chinese portfolio case-study copy](docs/portfolio-case-study.zh.md) · [Full technical guide](docs/technical/implementation-guide.md)
 
 ## At a glance
 
