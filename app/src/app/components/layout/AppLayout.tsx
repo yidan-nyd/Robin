@@ -13,7 +13,7 @@ export function AppLayout() {
   const location = useLocation();
 
   const navItems = [
-    { name: 'Dashboard', path: '/', icon: Home },
+    { name: 'Dashboard', path: '/dashboard', icon: Home },
     { name: 'Garden Map', path: '/map', icon: MapIcon },
     { name: 'Task Planner', path: '/tasks', icon: Calendar },
     { name: 'Plant Monitor', path: '/plants', icon: Leaf },

@@ -1,4 +1,4 @@
-import { createHashRouter } from "react-router";
+import { createHashRouter, redirect } from "react-router";
 import { AppLayout } from "./components/layout/AppLayout";
 import DashboardScreen from "./screens/DashboardScreen";
 import MapScreen from "./screens/MapScreen";
@@ -17,7 +17,8 @@ export const router = createHashRouter([
     path: "/",
     Component: AppLayout,
     children: [
-      { index: true, Component: DashboardScreen },
+      { index: true, loader: () => redirect("/robot") },
+      { path: "dashboard", Component: DashboardScreen },
       { path: "map", Component: MapScreen },
       { path: "tasks", Component: TaskPlannerScreen },
       { path: "plants", Component: PlantMonitoringScreen },
