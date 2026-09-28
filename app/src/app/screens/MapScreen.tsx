@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Card, CardHeader, CardTitle, CardDescription } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Layers, MapPin, Maximize2, Search, Droplets, Plus, Minus, Compass, Activity, AlertTriangle } from 'lucide-react';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/AppButton';
 import { cn } from '../../lib/utils';
 
 interface Zone {

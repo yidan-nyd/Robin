@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardDescription } from '../components/ui/Card';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/AppButton';
 import { Badge } from '../components/ui/Badge';
 import { Battery, Power, Pause, RefreshCw, Crosshair, Map as MapIcon, Video, Signal, Droplets } from 'lucide-react';
 import { motion } from 'motion/react';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardHeader, CardTitle } from '../components/ui/Card';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/AppButton';
 import { Badge } from '../components/ui/Badge';
 import { Calendar as CalendarIcon, Clock, CheckCircle2, Circle, AlertCircle, Plus, Sparkles } from 'lucide-react';
 

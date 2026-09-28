@@ -3,7 +3,7 @@ import React from 'react';
 import { useNavigate } from 'react-router';
 import { Card, CardHeader, CardTitle, CardDescription } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/AppButton';
 import { CloudRain, Sun, Droplets, Thermometer, Wind, Zap, AlertCircle, ChevronRight, ChevronLeft, Play, Battery, CheckCircle2 } from 'lucide-react';
 import { ImageWithFallback } from '../components/figma/ImageWithFallback';
 import robotIcon from 'figma:asset/94d98822974a5479e2c8e6cc1293cc7a93522ef7.png';

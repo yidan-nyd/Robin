@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 import { Heart, MessageCircle, Share2, MoreHorizontal, Search, TrendingUp, Users, Star, Award, ChevronRight } from 'lucide-react';
 import { useNavigate } from 'react-router';
 import { cn } from '../../lib/utils';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/AppButton';
 import { Badge } from '../components/ui/Badge';
 
 // Mock Data
