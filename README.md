@@ -2,6 +2,8 @@
 
 # ROBIN
 
+[Open the interactive app](https://yidan-nyd.github.io/Robin/) · [中文说明](README.zh.md)
+
 ## An AI-native growing companion for small households
 
 ROBIN connects computer vision, conversational intelligence, and mobile robotics into an explainable and controllable home-growing system. Its purpose is not to replace care with automation, but to reduce the cognitive burden of observing, interpreting, and consistently responding to plant needs.
