@@ -4,7 +4,7 @@ import React from 'react';
 import { NavLink, Outlet, useLocation } from 'react-router';
 import { Home, Map as MapIcon, Calendar, Leaf, Bot, BarChart3, Bell, Settings, Search, Menu, Users, ChevronLeft, ChevronRight } from 'lucide-react';
 import { cn } from '../../../lib/utils';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/AppButton';
 import { motion, AnimatePresence } from 'motion/react';
 
 export function AppLayout() {
